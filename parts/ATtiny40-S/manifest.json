@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny40-S:ATtiny40-S",
+  "name": "ATtiny40-S",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny40-S.kicad_sym",
+  "description": "12MHz, 4kB Flash, 256B SRAM, No EEPROM, SOIC-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8263-8-bit-avr-microcontroller-tinyavr-attiny40_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny40-S/",
+  "part_path": "parts/ATtiny40-S",
+  "symbol_file": "parts/ATtiny40-S/ATtiny40-S.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.713Z"
+}

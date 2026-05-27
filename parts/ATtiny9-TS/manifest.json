@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny9-TS:ATtiny9-TS",
+  "name": "ATtiny9-TS",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny9-TS.kicad_sym",
+  "description": "12MHz, 1kB Flash, 32B SRAM, No EEPROM, SOT-23-6",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "ATtiny4-TS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny9-TS/",
+  "part_path": "parts/ATtiny9-TS",
+  "symbol_file": "parts/ATtiny9-TS/ATtiny9-TS.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.408Z"
+}

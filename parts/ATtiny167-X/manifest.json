@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny167-X:ATtiny167-X",
+  "name": "ATtiny167-X",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny167-X.kicad_sym",
+  "description": "16MHz, 16kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, TSSOP-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8265-8-bit-AVR-Microcontroller-tinyAVR-ATtiny87-ATtiny167_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR Automotive",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "ATtiny87-X",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny167-X/",
+  "part_path": "parts/ATtiny167-X",
+  "symbol_file": "parts/ATtiny167-X/ATtiny167-X.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.371Z"
+}

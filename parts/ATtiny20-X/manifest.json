@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny20-X:ATtiny20-X",
+  "name": "ATtiny20-X",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny20-X.kicad_sym",
+  "description": "12MHz, 2kB Flash, 128B SRAM, No EEPROM, TSSOP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny20-X/",
+  "part_path": "parts/ATtiny20-X",
+  "symbol_file": "parts/ATtiny20-X/ATtiny20-X.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.399Z"
+}

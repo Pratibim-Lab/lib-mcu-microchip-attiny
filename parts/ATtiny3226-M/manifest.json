@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny3226-M:ATtiny3226-M",
+  "name": "ATtiny3226-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny3226-M.kicad_sym",
+  "description": "20MHz, 32kB Flash, 3kB SRAM, 256B EEPROM, VQFN-20",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3224-3226-3227-Data-Sheet-DS40002345A.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm",
+  "extends": "ATtiny406-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny3226-M/",
+  "part_path": "parts/ATtiny3226-M",
+  "symbol_file": "parts/ATtiny3226-M/ATtiny3226-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.633Z"
+}

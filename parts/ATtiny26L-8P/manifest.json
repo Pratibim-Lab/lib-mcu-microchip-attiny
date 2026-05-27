@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny26L-8P:ATtiny26L-8P",
+  "name": "ATtiny26L-8P",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny26L-8P.kicad_sym",
+  "description": "8MHz, 2kB Flash, 128B SRAM, 128B EEPROM, DIP-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc1477.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny26L-8P/",
+  "part_path": "parts/ATtiny26L-8P",
+  "symbol_file": "parts/ATtiny26L-8P/ATtiny26L-8P.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.565Z"
+}

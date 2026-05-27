@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny861A-M:ATtiny861A-M",
+  "name": "ATtiny861A-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny861A-M.kicad_sym",
+  "description": "20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, QFN-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8197.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+  "extends": "ATtiny461V-10M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny861A-M/",
+  "part_path": "parts/ATtiny861A-M",
+  "symbol_file": "parts/ATtiny861A-M/ATtiny861A-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.365Z"
+}

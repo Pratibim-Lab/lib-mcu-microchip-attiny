@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny817-M:ATtiny817-M",
+  "name": "ATtiny817-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny817-M.kicad_sym",
+  "description": "20MHz, 8kB Flash, 512B SRAM, 128B EEPROM, VQFN-24",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001901B.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "ATtiny807-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny817-M/",
+  "part_path": "parts/ATtiny817-M",
+  "symbol_file": "parts/ATtiny817-M/ATtiny817-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.228Z"
+}

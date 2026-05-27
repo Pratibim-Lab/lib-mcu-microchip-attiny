@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny10-MA:ATtiny10-MA",
+  "name": "ATtiny10-MA",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny10-MA.kicad_sym",
+  "description": "12MHz, 1kB Flash, 32B SRAM, No EEPROM, ADC, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8127-AVR-8-bit-Microcontroller-ATtiny4-ATtiny5-ATtiny9-ATtiny10_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.5mm",
+  "extends": "ATtiny4-MA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny10-MA/",
+  "part_path": "parts/ATtiny10-MA",
+  "symbol_file": "parts/ATtiny10-MA/ATtiny10-MA.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.161Z"
+}

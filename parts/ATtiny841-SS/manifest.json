@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny841-SS:ATtiny841-SS",
+  "name": "ATtiny841-SS",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny841-SS.kicad_sym",
+  "description": "16MHz, 8kB Flash, 512B SRAM, 512B EEPROM, ADC, ACI, debugWIRE, SOIC-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "ATtiny441-SS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny841-SS/",
+  "part_path": "parts/ATtiny841-SS",
+  "symbol_file": "parts/ATtiny841-SS/ATtiny841-SS.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.293Z"
+}

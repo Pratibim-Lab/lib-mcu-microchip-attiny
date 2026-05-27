@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny87-M:ATtiny87-M",
+  "name": "ATtiny87-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny87-M.kicad_sym",
+  "description": "16MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, QFN-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8265-8-bit-AVR-Microcontroller-tinyAVR-ATtiny87-ATtiny167_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR Automotive",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny87-M/",
+  "part_path": "parts/ATtiny87-M",
+  "symbol_file": "parts/ATtiny87-M/ATtiny87-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.381Z"
+}

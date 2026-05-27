@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny102-M:ATtiny102-M",
+  "name": "ATtiny102-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny102-M.kicad_sym",
+  "description": "12MHz, 1kB Flash, 32B SRAM, No EEPROM, DFN-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42505-8-bit-AVR-Microcontrollers-ATtiny102-ATtiny104_Datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny102-M/",
+  "part_path": "parts/ATtiny102-M",
+  "symbol_file": "parts/ATtiny102-M/ATtiny102-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.168Z"
+}

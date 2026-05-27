@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny402-SS:ATtiny402-SS",
+  "name": "ATtiny402-SS",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny402-SS.kicad_sym",
+  "description": "20MHz, 4kB Flash, 256B SRAM, 128B EEPROM, SOIC-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny202-402-AVR-MCU-with-Core-Independent-Peripherals_and-picoPower-40001969A.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "ATtiny202-SS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny402-SS/",
+  "part_path": "parts/ATtiny402-SS",
+  "symbol_file": "parts/ATtiny402-SS/ATtiny402-SS.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.729Z"
+}

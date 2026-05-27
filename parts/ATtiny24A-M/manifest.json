@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny24A-M:ATtiny24A-M",
+  "name": "ATtiny24A-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny24A-M.kicad_sym",
+  "description": "20MHz, 2kB Flash, 128B SRAM, 128B EEPROM, debugWIRE, QFN-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "ATtiny24V-10M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny24A-M/",
+  "part_path": "parts/ATtiny24A-M",
+  "symbol_file": "parts/ATtiny24A-M/ATtiny24A-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.476Z"
+}

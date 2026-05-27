@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny85V-10M:ATtiny85V-10M",
+  "name": "ATtiny85V-10M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny85V-10M.kicad_sym",
+  "description": "10MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, QFN-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "ATtiny25V-10M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny85V-10M/",
+  "part_path": "parts/ATtiny85V-10M",
+  "symbol_file": "parts/ATtiny85V-10M/ATtiny85V-10M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.341Z"
+}

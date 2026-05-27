@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny826-S:ATtiny826-S",
+  "name": "ATtiny826-S",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny826-S.kicad_sym",
+  "description": "20MHz, 8kB Flash, 1kB SRAM, 128B EEPROM, SOIC-20",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "ATtiny406-S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny826-S/",
+  "part_path": "parts/ATtiny826-S",
+  "symbol_file": "parts/ATtiny826-S/ATtiny826-S.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.248Z"
+}

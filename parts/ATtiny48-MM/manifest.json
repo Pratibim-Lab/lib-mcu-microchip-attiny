@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny48-MM:ATtiny48-MM",
+  "name": "ATtiny48-MM",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny48-MM.kicad_sym",
+  "description": "12MHz, 4kB Flash, 256B SRAM, 64B EEPROM, QFN-28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8008.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny48-MM/",
+  "part_path": "parts/ATtiny48-MM",
+  "symbol_file": "parts/ATtiny48-MM/ATtiny48-MM.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.174Z"
+}

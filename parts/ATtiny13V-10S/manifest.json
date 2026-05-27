@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny13V-10S:ATtiny13V-10S",
+  "name": "ATtiny13V-10S",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny13V-10S.kicad_sym",
+  "description": "10MHz, 1kB Flash, 64B SRAM, 64B EEPROM, debugWIRE, SOIC-8 (208 mil)",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny13V-10S/",
+  "part_path": "parts/ATtiny13V-10S",
+  "symbol_file": "parts/ATtiny13V-10S/ATtiny13V-10S.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.253Z"
+}

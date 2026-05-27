@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny814-SS:ATtiny814-SS",
+  "name": "ATtiny814-SS",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny814-SS.kicad_sym",
+  "description": "20MHz, 8kB Flash, 512B SRAM, 128B EEPROM, SOIC-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "ATtiny204-SS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny814-SS/",
+  "part_path": "parts/ATtiny814-SS",
+  "symbol_file": "parts/ATtiny814-SS/ATtiny814-SS.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.211Z"
+}

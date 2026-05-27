@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny13V-10P:ATtiny13V-10P",
+  "name": "ATtiny13V-10P",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny13V-10P.kicad_sym",
+  "description": "10MHz, 1kB Flash, 64B SRAM, 64B EEPROM, debugWIRE, DIP-8",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny13V-10P/",
+  "part_path": "parts/ATtiny13V-10P",
+  "symbol_file": "parts/ATtiny13V-10P/ATtiny13V-10P.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.244Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny43U-M:ATtiny43U-M",
+  "name": "ATtiny43U-M",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny43U-M.kicad_sym",
+  "description": "8MHz, 4kB Flash, 256B SRAM, 64B EEPROM, QFN-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8048.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR Battery Boost",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny43U-M/",
+  "part_path": "parts/ATtiny43U-M",
+  "symbol_file": "parts/ATtiny43U-M/ATtiny43U-M.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.904Z"
+}

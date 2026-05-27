@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny84-20P:ATtiny84-20P",
+  "name": "ATtiny84-20P",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny84-20P.kicad_sym",
+  "description": "20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, DIP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "ATtiny24V-10P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny84-20P/",
+  "part_path": "parts/ATtiny84-20P",
+  "symbol_file": "parts/ATtiny84-20P/ATtiny84-20P.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:19.271Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny20-CC:ATtiny20-CC",
+  "name": "ATtiny20-CC",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny20-CC.kicad_sym",
+  "description": "12MHz, 2kB Flash, 128B SRAM, No EEPROM, UFBGA-15",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_BGA:UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny20-CC/",
+  "part_path": "parts/ATtiny20-CC",
+  "symbol_file": "parts/ATtiny20-CC/ATtiny20-CC.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.378Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny261A-X:ATtiny261A-X",
+  "name": "ATtiny261A-X",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny261A-X.kicad_sym",
+  "description": "20MHz, 2kB Flash, 128B SRAM, 128B EEPROM, TSSOP-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8197.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny261A-X/",
+  "part_path": "parts/ATtiny261A-X",
+  "symbol_file": "parts/ATtiny261A-X/ATtiny261A-X.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.555Z"
+}

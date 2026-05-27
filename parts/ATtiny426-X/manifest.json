@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_ATtiny/ATtiny426-X:ATtiny426-X",
+  "name": "ATtiny426-X",
+  "library": "MCU_Microchip_ATtiny",
+  "file": "MCU_Microchip_ATtiny.kicad_symdir/ATtiny426-X.kicad_sym",
+  "description": "20MHz, 4kB Flash, 512B SRAM, 128B EEPROM, SSOP-20",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf",
+  "keywords": "AVR 8bit Microcontroller tinyAVR",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "ATtiny406-S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-attiny@master/parts/ATtiny426-X/",
+  "part_path": "parts/ATtiny426-X",
+  "symbol_file": "parts/ATtiny426-X/ATtiny426-X.kicad_sym",
+  "source_library": "MCU_Microchip_ATtiny.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:18.836Z"
+}
